@@ -1,0 +1,36 @@
+body{
+     background-color: rgb(53, 43, 43);
+
+}
+.container{
+    margin-top: 50px;
+}
+.card{
+    text-align: center;
+       margin: 15px ;
+     color:white;
+    
+}
+.card-body{
+   color: black;
+    background-color: white;
+}
+.card-header {
+    background-color: black;
+    color: white;
+}
+p{
+    margin-top: 15px;
+}
+.row{
+    flex-wrap: wrap;
+}
+.card-img-top{
+   width: 200px;
+   height: 100px;
+}
+h1,p{
+    margin: 25px;
+    color: rgb(255, 246, 246);
+    text-align: center;
+}
